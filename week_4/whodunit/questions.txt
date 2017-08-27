@@ -1,0 +1,14 @@
+1.  a header file that includes some integer types
+2.  used as Exact-width integer types
+3.  1,4,4,2
+4.  BM
+5.  bfSize The size, in bytes, of the bitmap file.
+    biSize The number of bytes required by the structure.
+
+6.  If biHeight is negative, the bitmap is a top-down DIB and its origin is the upper-left corner
+7.  biBitCount
+8.  can't open file or file doesn't exsit
+9.  just read the BF or BI
+10. 3
+11. jump to a another position in the file that pointer points to
+12. the current position
